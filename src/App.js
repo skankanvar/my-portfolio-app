@@ -5,7 +5,7 @@ import Sidebar from './components/sidebar'
 import About from './components/about'
 import WorkExperience from './components/workexperience'
 import Education from './components/education';
-import OtherWork from './components/otherwork';
+import OtherProjects from './components/otherprojects';
 
 class App extends Component {
   render() {
@@ -18,7 +18,7 @@ class App extends Component {
             <About></About>
             <Education></Education>
             <WorkExperience></WorkExperience>
-            <OtherWork></OtherWork>
+            <OtherProjects></OtherProjects>
           </div>
         </div>
       </div>

@@ -20,15 +20,15 @@ export default class Sidebar extends Component {
                                     <li className="active"><a href="#about" data-nav-section="about">About</a></li>
                                     <li><a href="#education" data-nav-section="education">Education</a></li>
                                     <li><a href="#workexperience" data-nav-section="workexperience">Work Experience</a></li>
-                                    <li><a href="#otherwork" data-nav-section="otherwork">Other Works</a></li>
+                                    <li><a href="#otherprojects" data-nav-section="otherprojects">Other Projects</a></li>
                                 </ul>
                             </div>
                         </nav>
                         <nav id="colorlib-main-menu">
                             <ul>
-                                <li><a href="https://www.facebook.com/sabarishsaik" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
+                                {/* <li><a href="https://www.facebook.com/sabarishsaik" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li> */}
                                 <li><a href="https://twitter.com/sabarishsaik" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li>
-                                <li><a href="https://www.instagram.com/sabarish_kanvar/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
+                                {/* <li><a href="https://www.instagram.com/sabarish_kanvar/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li> */}
                                 <li><a href="https://www.linkedin.com/in/skankanvar/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
                                 <li><a href="https://github.com/skankanvar" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
                             </ul>
